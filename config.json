@@ -1,0 +1,32 @@
+{
+  "model": "bestn.pt",
+  "confidence_threshold": 0.5,
+  "class_names": {
+    "0": "巧克力",
+    "1": "咔辣姆久",
+    "2": "無尾熊餅乾",
+    "3": "樂事洋芋片",
+    "4": "Pepero",
+    "5": "品客洋芋片",
+    "6": "泡芙",
+    "7": "新貴派"
+  },
+  "price_map": {
+    "巧克力": 35,
+    "咔辣姆久": 40,
+    "無尾熊餅乾": 30,
+    "樂事洋芋片": 55,
+    "Pepero": 35,
+    "品客洋芋片": 25,
+    "泡芙": 40,
+    "新貴派": 45
+  },
+  "camera": {
+    "device_id": 0,
+    "duration_seconds": 30
+  },
+  "video": {
+    "skip_frames": 1,
+    "output_format": "mp4v"
+  }
+}
