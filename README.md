@@ -22,7 +22,7 @@
 ## 🔧 系統需求
 
 ### 依賴套件
-- Python 3.8+
+- Python 3.10+
 - tkinter（通常內建 Python）
 - OpenCV (`cv2`)
 - Pillow (`PIL`)
